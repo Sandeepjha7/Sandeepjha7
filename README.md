@@ -1,4 +1,4 @@
-[![MasterHead](https://ak9.picdn.net/shutterstock/videos/27865729/thumb/7.jpg)](https://sandeepjha7.io)
+[![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=1380&t=st=1675534321~exp=1675534921~hmac=5fb75dd2fbd3f8adaeb6fab52d32bc60d540f8229c3121e598bc6f1a7c85cb1e)](https://sandeepjha7.io)
 <h1 align="center">Hi 👋, I'm Sandeep Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kgvc2i4f0zm9t1mwxeiooaum1h7s92wtygtiwnvh&rid=giphy.gif&ct=g">
